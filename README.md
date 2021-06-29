@@ -1,5 +1,5 @@
 ### Hi there, I'm Pushpit 👋
-## I'm a final year student about to complete by Bachelor's Degree
+## I'm a final year student about to complete by B.Tech in Civil Engineering
 
 - 🔭 I'm currently focussing on Data Science projects
 - 🌱 I'm currently learning about recommendation systems
@@ -31,8 +31,13 @@
 
 <br/>
 <br/>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Pushpit's GitHub Stats" src="https://github-readme-stats.PushpitKumar.vercel.app/api?username=PushpitKumar&show_icons=true&hide_border=true" />
-</details>
+<br/>
+
+[![Pushpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushpitKumar&show_icons=true&theme=maroongold)](https://github.com/PushpitKumar/github-readme-stats)
+
+[linkedin]: https://www.linkedin.com/in/pushpit-kumar
+[twitter]: https://twitter.com/Pushpit_99
+[kaggle]: https://www.kaggle.com/pushpitkumar
+
+
 
