@@ -16,6 +16,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
+<img align="left" alt="C++" width="50px" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" />
 <img align="left" alt="Pandas" width="35px" src="https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz" />
 <img align="left" alt="Numpy" width="35px" src="https://techscript24.com/wp-content/uploads/2020/10/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />
 <img align="left" alt="Sci-Kit Learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
