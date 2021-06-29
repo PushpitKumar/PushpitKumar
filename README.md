@@ -29,8 +29,10 @@
 <img align="left" alt="Streamlit" width="35px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
 <img align="left" alt="Docker" width="35px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" />
 
+<br/>
+<br/>
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Pushpit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PushpitKumar&show_icons=true&hide_border=true" />
+  <img align="left" alt="Pushpit's GitHub Stats" src="https://github-readme-stats.PushpitKumar.vercel.app/api?username=PushpitKumar&show_icons=true&hide_border=true" />
 </details>
 
