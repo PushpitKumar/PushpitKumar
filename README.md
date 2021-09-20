@@ -1,5 +1,5 @@
 ### Hi there, I'm Pushpit 👋
-## I'm a final year student about to complete by B.Tech in Civil Engineering
+## Data Science Aspirant
 
 - 🔭 I'm currently focussing on Data Science projects
 - 🌱 I'm currently learning about recommendation systems
