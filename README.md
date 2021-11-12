@@ -1,5 +1,5 @@
 ### Hi there, I'm Pushpit 👋
-## Data Science Aspirant
+## AWS re/Start Learner
 
 - 🔭 I'm currently focussing on Data Science projects
 - 🌱 I'm currently learning about recommendation systems
