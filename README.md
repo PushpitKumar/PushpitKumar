@@ -1,9 +1,9 @@
 ### Hi there, I'm Pushpit 👋
-## AWS re/Start Learner
+## AWS re/Start Graduate
 
-- 🔭 I'm currently focussing on Data Science projects
+- 🔭 I'm currently focussing on AWS
 - 🌱 I'm currently learning about recommendation systems
-- 🥅 Future Goals: Contribute more to Data Science community via blog posts
+- 🥅 Future Goals: Contribute more to community via blog posts
 - ⚡ Fun Fact: I love gaming (Huge fan of the *Souls* series)
 
 ### Connect with me:
