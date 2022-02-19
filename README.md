@@ -29,7 +29,6 @@
 <img align="left" alt="Atom" width="27px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />
 <img align="left" alt="Git" width="27px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="Flask" width="35px" src="https://cms-assets.tutsplus.com/uploads/users/30/posts/16037/preview_image/flask.png" />
-<img align="left" alt="Streamlit" width="35px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
 <img align="left" alt="Docker" width="35px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" />
 
 <br/>
