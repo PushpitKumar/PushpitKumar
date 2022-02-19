@@ -7,7 +7,7 @@
 - ⚡ Fun Fact: I love gaming (Huge fan of the *Souls* series)
 
 ### Connect with me:
-[<img align="left" alt="PushpitKumar | LinkedIn" width="22px" src="https://diversity.ncsu.edu/wp-content/uploads/2020/09/linkedin.png" />][linkedin]
+[<img align="left" alt="PushpitKumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PushpitKumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PushpitKumar | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />][kaggle]
 
