@@ -40,8 +40,8 @@
 <img align="left" alt="Flask" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsH49uY4nVDG_5JIq5Lv42DWqi54kdPWF5oA&s" />
 <img align="left" alt="Azure" width="60px" src="https://seeklogo.com/images/M/microsoft-azure-logo-A5763BE4D0-seeklogo.com.png" />
 <img align="left" alt="Docker" width="30px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />
-<img align="left" alt="Matplotlib" width="30px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
-<img align="left" alt="Seaborn" width="30px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
+<img align="left" alt="Matplotlib" width="25px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
+<img align="left" alt="Seaborn" width="25px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
 
 <br/>
 <br/>
