@@ -33,12 +33,17 @@
 <img align="left" alt="Postman" width="25px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />
 <img align="left" alt="Pandas" width="25px" src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" />
 <img align="left" alt="Numpy" width="30px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
-<br/>
 <img align="left" alt="Sci-Kit Learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Jupyter" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" />
 <img align="left" alt="Git" width="25px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" />
 <img align="left" alt="C++" width="25px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" />
+<img align="left" alt="Flask" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsH49uY4nVDG_5JIq5Lv42DWqi54kdPWF5oA&s" />
+<img align="left" alt="Azure" width="60px" src="https://seeklogo.com/images/M/microsoft-azure-logo-A5763BE4D0-seeklogo.com.png" />
+<img align="left" alt="Docker" width="30px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />
+<img align="left" alt="Matplotlib" width="30px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
+<img align="left" alt="Seaborn" width="30px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
 
+<br/>
 <br/>
 <br/>
 <br/>
