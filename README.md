@@ -17,7 +17,7 @@
 <br/>
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,aws,linux,py,html,css,js,bootstrap,jquery,vscode,postman,sklearn,git,cpp,flask,azure,docker,sublime&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,aws,linux,py,html,css,js,bootstrap,jquery,vscode,postman,sklearn,git,cpp,flask,azure,docker,sublime&perline=11)](#)
 
 ## GitHub Stats
 
