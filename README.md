@@ -48,11 +48,11 @@
 <br/>
 <br/>
 
-[![Pushpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushpitKumar&show_icons=true&theme=ambient_gradient#dark-mode-only)](https://github.com/PushpitKumar/github-readme-stats#gh-dark-mode-only)
-[![Pushpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushpitKumar&show_icons=true&theme=maroongold)](https://github.com/PushpitKumar/github-readme-stats#gh-dark-mode-only#gh-light-mode-only)
+[![Pushpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushpitKumar&show_icons=true&theme=ambient_gradient#dark-mode-only)](https://github.com/PushpitKumar#gh-dark-mode-only)
+[![Pushpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushpitKumar&show_icons=true&theme=maroongold)](https://github.com/PushpitKumar#gh-dark-mode-only#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpitKumar&theme=ambient_gradient&layout=compact&size_weight=0.5&count_weight=0.5&hide_progress=true)](https://github.com/PushpitKumar/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpitKumar&theme=maroongold&layout=compact&size_weight=0.5&count_weight=0.5&hide_progress=true)](https://github.com/PushpitKumar/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpitKumar&theme=ambient_gradient&layout=compact&size_weight=0.5&count_weight=0.5&hide_progress=true)](https://github.com/PushpitKumar#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpitKumar&theme=maroongold&layout=compact&size_weight=0.5&count_weight=0.5&hide_progress=true)](https://github.com/PushpitKumar#gh-light-mode-only)
 
 
 [linkedin]: https://www.linkedin.com/in/pushpit-kumar
