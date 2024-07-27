@@ -33,6 +33,7 @@
 <img align="left" alt="Postman" width="25px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />
 <img align="left" alt="Pandas" width="25px" src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" />
 <img align="left" alt="Numpy" width="30px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
+<br/>
 <img align="left" alt="Sci-Kit Learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Jupyter" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" />
 <img align="left" alt="Git" width="25px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" />
