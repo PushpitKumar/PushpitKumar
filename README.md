@@ -21,11 +21,23 @@
 
 ## GitHub Stats
 
-[![Pushpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushpitKumar&show_icons=true&theme=ambient_gradient#dark-mode-only)](https://github.com/PushpitKumar#gh-dark-mode-only)
-[![Pushpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushpitKumar&show_icons=true&theme=maroongold)](https://github.com/PushpitKumar#gh-light-mode-only)
+<div style="display: flex; justify-content: space-between;">
+     <a href="https://github.com/PushpitKumar#gh-dark-mode-only">
+          <img src="https://github-readme-stats.vercel.app/api?username=PushpitKumar&show_icons=true&theme=ambient_gradient#dark-mode-only" alt="Pushpit's GitHub stats" />
+     </a>
+     <a href="https://github.com/PushpitKumar#gh-dark-mode-only">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpitKumar&theme=ambient_gradient&layout=compact&size_weight=0.5&count_weight=0.5" />
+     </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpitKumar&theme=ambient_gradient&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/PushpitKumar#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpitKumar&theme=maroongold&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/PushpitKumar#gh-light-mode-only)
+<div style="display: flex; justify-content: space-between;">
+     <a href="https://github.com/PushpitKumar#gh-light-mode-only">
+          <img src="https://github-readme-stats.vercel.app/api?username=PushpitKumar&show_icons=true&theme=maroongold#light-mode-only" alt="Pushpit's GitHub stats" />
+     </a>
+     <a href="https://github.com/PushpitKumar#gh-light-mode-only">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpitKumar&theme=maroongold&layout=compact&size_weight=0.5&count_weight=0.5" />
+     </a>
+</div>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
