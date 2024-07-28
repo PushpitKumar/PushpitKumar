@@ -39,6 +39,13 @@
      </a>
 </div>
 
+<!--[![Pushpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushpitKumar&show_icons=true&theme=ambient_gradient#dark-mode-only)](https://github.com/PushpitKumar#gh-dark-mode-only)
+</div>
+[![Pushpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushpitKumar&show_icons=true&theme=maroongold)](https://github.com/PushpitKumar#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpitKumar&theme=ambient_gradient&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/PushpitKumar#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpitKumar&theme=maroongold&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/PushpitKumar#gh-light-mode-only) -->
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
