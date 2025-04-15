@@ -10,9 +10,6 @@
 
 [<img align="left" alt="PushpitKumar | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="PushpitKumar | Kaggle" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3628869-3030009.png" />][kaggle]
-[<img align="left" alt="PushpitKumar | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" />][twitter]
-[<img align="left" alt="PushpitKumar | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png" />][instagram]
-[<img align="left" alt="PushpitKumar | Facebook" width="22px" src="https://seeklogo.com/images/F/facebook-logo-C64946D6D2-seeklogo.com.png" />][facebook]
 
 <br/>
 
