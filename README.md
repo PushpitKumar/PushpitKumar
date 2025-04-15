@@ -7,12 +7,27 @@
 - ⚡ Fun Fact: I love gaming (Huge fan of the *Souls* series)
 
 ## Connect with me:
-
-[<img align="left" alt="PushpitKumar | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="PushpitKumar | Kaggle" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3628869-3030009.png" />][kaggle]
-
-<br/>
-
+<span>
+  <a href="https://linkedin.com/in/pushpit-kumar/" target="_blank">
+    <img src="https://socialize-md.vercel.app/api/badge/linkedin" width="50" />
+  </a>
+</span>
+<span>
+  <a href="https://instagram.com/pushpit_99/?igshid=ZDdkNTZiNTM" target="_blank">
+    <img src="https://socialize-md.vercel.app/api/badge/instagram" width="50" />
+  </a>
+</span>
+<span>
+  <a href="https://facebook.com/pushpit.kumar.9?mibextid=ZbWKwL" target="_blank">
+    <img src="https://socialize-md.vercel.app/api/badge/facebook" width="50" />
+  </a>
+</span>
+<span>
+  <a href="https://x.com/Pushpit_99" target="_blank">
+    <img src="https://socialize-md.vercel.app/api/badge/twitter" width="50" />
+  </a>
+</span>
+  
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,aws,linux,py,html,css,js,bootstrap,jquery,vscode,postman,sklearn,git,cpp,flask,azure,docker,sublime&perline=11)](#)
 
