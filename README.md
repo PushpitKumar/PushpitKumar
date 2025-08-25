@@ -1,8 +1,8 @@
 ### Hi there, I'm Pushpit 👋
-## Application Developer - Cognizant
+## MSc Data Science Student - University of Exeter
 
-- 🔭 I'm currently focussing on Web Development
-- 🌱 I'm currently learning about APIs
+- 🔭 I'm currently focussing on Data Science
+- 🌱 I'm currently learning about NLP
 - 🥅 Future Goals: Contribute more to community via blog posts
 - ⚡ Fun Fact: I love gaming (Huge fan of the *Souls* series)
 
